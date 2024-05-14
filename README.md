@@ -1,2 +1,2 @@
 # perceptron-implementation
-An implementation of a single perceptron using only standard python methods.
+An implementation of a classic perceptron by Frank Rosenblatt using only standard python methods.
